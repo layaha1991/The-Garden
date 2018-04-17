@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 8292c11de09d541a098f25ff3500edc5
+timeCreated: 1516535369
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: leaves01_0
+    21300002: leaves01_1
+    21300004: leaves01_2
+    21300006: leaves01_3
+    21300008: leaves01_4
+    21300010: leaves01_5
+    21300012: leaves01_6
+    21300014: leaves01_7
+    21300016: leaves01_8
+    21300018: leaves01_9
+    21300020: leaves01_10
+    21300022: leaves01_11
+    21300024: leaves01_12
+    21300026: leaves01_13
+    21300028: leaves01_14
+    21300030: leaves01_15
+    21300032: leaves01_16
+    21300034: leaves01_17
+    21300036: leaves01_18
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 108
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leaves01_0
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 5562
+        width: 223
+        height: 349
+      alignment: 9
+      pivot: {x: 0.073192924, y: 0.049366772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_1
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 5308
+        width: 327
+        height: 372
+      alignment: 9
+      pivot: {x: 0.06655184, y: 0.03900081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_2
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 4833
+        width: 83
+        height: 325
+      alignment: 9
+      pivot: {x: 0.38237423, y: 0.044640925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_3
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 5045
+        width: 334
+        height: 214
+      alignment: 9
+      pivot: {x: 0.96107346, y: 0.11016903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_4
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 4536
+        width: 464
+        height: 292
+      alignment: 9
+      pivot: {x: 0.9634494, y: 0.04037016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4000
+        width: 120
+        height: 473
+      alignment: 9
+      pivot: {x: 0.12090251, y: 0.046009928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_6
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 3732
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0.061660156, y: 0.8378613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_7
+      rect:
+        serializedVersion: 2
+        x: 3909
+        y: 3779
+        width: 330
+        height: 195
+      alignment: 9
+      pivot: {x: 0.060451437, y: 0.8835249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_8
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3282
+        width: 56
+        height: 437
+      alignment: 9
+      pivot: {x: 0.6153129, y: 0.041499995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_9
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 2850
+        width: 93
+        height: 253
+      alignment: 9
+      pivot: {x: 0.30225658, y: 0.9139438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_10
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 3088
+        width: 288
+        height: 134
+      alignment: 9
+      pivot: {x: 0.053524442, y: 0.16240817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_11
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 2351
+        width: 160
+        height: 554
+      alignment: 9
+      pivot: {x: 0.13601609, y: 0.02618827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_12
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 2137
+        width: 209
+        height: 112
+      alignment: 9
+      pivot: {x: 0.11280231, y: 0.12954058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_13
+      rect:
+        serializedVersion: 2
+        x: 4005
+        y: 1886
+        width: 143
+        height: 310
+      alignment: 9
+      pivot: {x: 0.15218498, y: 0.04095144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_14
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1383
+        width: 282
+        height: 512
+      alignment: 9
+      pivot: {x: 0.041801725, y: 0.03364992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_15
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 1383
+        width: 346
+        height: 336
+      alignment: 9
+      pivot: {x: 0.060276628, y: 0.04317983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_16
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 1056
+        width: 15
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_17
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 649
+        width: 53
+        height: 256
+      alignment: 9
+      pivot: {x: 0.6330313, y: 0.07438445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leaves01_18
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 2136
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
